@@ -1,6 +1,6 @@
 {
   "name": "textmeta",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "PDF text extraction & regex based rules engine to retrieve metadata from text.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/m-gagne/textmeta.git"
+    "url": "git+https://github.com/iwona1216/textmeta.git"
   },
   "keywords": [
     "pdf",
@@ -16,12 +16,9 @@
     "regex",
     "metadata"
   ],
-  "author": "Marc Gagne <marc.gagne@hotmail.com> (https://twitter.com/marc_gagne)",
+  "author": "Iwona Kepenyan",
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/m-gagne/textmeta/issues"
-  },
-  "homepage": "https://github.com/m-gagne/textmeta#readme",
+  "homepage": "https://github.com/iwona1216/textmeta#readme",
   "dependencies": {
     "object-assign": "^4.1.1",
     "pdfjs-dist": "^1.8.384"
